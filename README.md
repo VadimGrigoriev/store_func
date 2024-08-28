@@ -1,5 +1,3 @@
-![CI](https://github.com/VadimGrigoriev/store_func/actions/workflows/web.yml/badge.svg)
-
 Страница интернет-магазина
 ===
 
